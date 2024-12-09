@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|c:\\universidad\\distribuidas\\primerparcial\\lecci\u00F3n soap crud\\original\\soap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|solutionrelative:soap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|c:\\universidad\\distribuidas\\primerparcial\\lecci\u00F3n soap crud\\original\\soap\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|solutionrelative:soap\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|c:\\universidad\\distribuidas\\primerparcial\\lecci\u00F3n soap crud\\original\\soap\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|solutionrelative:soap\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|c:\\universidad\\distribuidas\\primerparcial\\lecci\u00F3n soap crud\\original\\soap\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|solutionrelative:soap\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE93D02-5539-49EB-8221-E7D73AB435DE}|DAL\\DAL.csproj|c:\\universidad\\distribuidas\\primerparcial\\lecci\u00F3n soap crud\\original\\entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE93D02-5539-49EB-8221-E7D73AB435DE}|DAL\\DAL.csproj|solutionrelative:entities\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE93D02-5539-49EB-8221-E7D73AB435DE}|DAL\\DAL.csproj|c:\\universidad\\distribuidas\\primerparcial\\lecci\u00F3n soap crud\\original\\dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE93D02-5539-49EB-8221-E7D73AB435DE}|DAL\\DAL.csproj|solutionrelative:dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE93D02-5539-49EB-8221-E7D73AB435DE}|DAL\\DAL.csproj|c:\\universidad\\distribuidas\\primerparcial\\lecci\u00F3n soap crud\\original\\dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE93D02-5539-49EB-8221-E7D73AB435DE}|DAL\\DAL.csproj|solutionrelative:dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\soap\\productsservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|solutionrelative:soap\\productsservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|c:\\universidad\\distribuidas\\primerparcial\\lecci\u00F3n soap crud\\original\\soap\\categoriesservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3651B5-25B4-414C-891D-CF5ED161E402}|SOAP\\SOAP.csproj|solutionrelative:soap\\categoriesservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|c:\\universidad\\distribuidas\\primerparcial\\lecci\u00F3n soap crud\\original\\nwind.mvcpls1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{054EEB30-A90D-4887-B939-9AC52ED0AB80}|NWind.MVCPLS1\\NWind.MVCPLS.csproj|solutionrelative:nwind.mvcpls1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE93D02-5539-49EB-8221-E7D73AB435DE}|DAL\\DAL.csproj|C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DFE93D02-5539-49EB-8221-E7D73AB435DE}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0092B551-63E7-4BB0-ABAD-E9DA9C4E96A1}|BLL\\BLL.csproj|C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\bll\\productslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0092B551-63E7-4BB0-ABAD-E9DA9C4E96A1}|BLL\\BLL.csproj|solutionrelative:bll\\productslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "SOAP\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\ViewSwitcher.ascx",
+              "RelativeToolTip": "SOAP\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-12-09T03:10:42.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "SOAP\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "SOAP\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:10:30.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "SOAP\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "SOAP\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:10:28.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\Entities\\Categories.cs",
+              "RelativeDocumentMoniker": "Entities\\Categories.cs",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\Entities\\Categories.cs",
+              "RelativeToolTip": "Entities\\Categories.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:09:33.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\DAL\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepository.cs",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\DAL\\IRepository.cs",
+              "RelativeToolTip": "DAL\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:09:31.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EFRepository.cs",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\DAL\\EFRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\EFRepository.cs",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\DAL\\EFRepository.cs",
+              "RelativeToolTip": "DAL\\EFRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:09:27.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\Web.config",
+              "RelativeDocumentMoniker": "SOAP\\Web.config",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\Web.config",
+              "RelativeToolTip": "SOAP\\Web.config",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T02:49:07.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\NWind.MVCPLS1\\Web.config",
+              "RelativeDocumentMoniker": "NWind.MVCPLS1\\Web.config",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\NWind.MVCPLS1\\Web.config",
+              "RelativeToolTip": "NWind.MVCPLS1\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA2AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T02:50:33.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesService.asmx.cs",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\CategoriesService.asmx.cs",
+              "RelativeDocumentMoniker": "SOAP\\CategoriesService.asmx.cs",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\CategoriesService.asmx.cs",
+              "RelativeToolTip": "SOAP\\CategoriesService.asmx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:29:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsService.asmx.cs",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\ProductsService.asmx.cs",
+              "RelativeDocumentMoniker": "SOAP\\ProductsService.asmx.cs",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\SOAP\\ProductsService.asmx.cs",
+              "RelativeToolTip": "SOAP\\ProductsService.asmx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:20:17.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsLogic.cs",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\BLL\\ProductsLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\ProductsLogic.cs",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\BLL\\ProductsLogic.cs",
+              "RelativeToolTip": "BLL\\ProductsLogic.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T23:04:53.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\DAL\\App.Config",
+              "RelativeDocumentMoniker": "DAL\\App.Config",
+              "ToolTip": "C:\\UNIVERSIDAD\\DISTRIBUIDAS\\PrimerParcial\\LECCI\u00D3N SOAP CRUD\\ORIGINAL\\DAL\\App.Config",
+              "RelativeToolTip": "DAL\\App.Config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-29T23:15:38.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
